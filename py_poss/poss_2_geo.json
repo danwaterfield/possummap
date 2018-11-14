@@ -1,0 +1,3220 @@
+{
+    "data": [
+        {
+            "user_id": 231349704,
+            "features": {
+                "name": "Faraudo",
+                "id": 231349704,
+                "screen_name": "PerateLuis",
+                "tweets": 1,
+                "location": "M\u00e9xico",
+                "primary_geo": "M\u00e9xico",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 63242685,
+            "features": {
+                "name": "\ud83c\udf39\ud83c\uddfb\ud83c\uddea",
+                "id": 63242685,
+                "screen_name": "DianaPatricia8",
+                "tweets": 1,
+                "location": "Room 11 with Sheriff Romero ",
+                "primary_geo": "Room 11 with Sheriff Romero ",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 18587798,
+            "features": {
+                "name": "michael",
+                "id": 18587798,
+                "screen_name": "mollydrag",
+                "tweets": 1,
+                "location": "Montr\u00e9al, Qu\u00e9bec",
+                "primary_geo": "Montr\u00e9al, Qu\u00e9bec",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1768358534,
+            "features": {
+                "name": "Finnegans Wake",
+                "id": 1768358534,
+                "screen_name": "finnegansreader",
+                "tweets": 1,
+                "location": "Paris",
+                "primary_geo": "Paris",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 4876281361,
+            "features": {
+                "name": "Jawesome Possum",
+                "id": 4876281361,
+                "screen_name": "Jawesome_Possum",
+                "tweets": 2,
+                "location": "Seattle, WA",
+                "primary_geo": "Seattle, WA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 315839066,
+            "features": {
+                "name": "Rhys McCleary",
+                "id": 315839066,
+                "screen_name": "rhysmc89",
+                "tweets": 1,
+                "location": "UK",
+                "primary_geo": "UK",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 580857040,
+            "features": {
+                "name": "NatureConservancySC",
+                "id": 580857040,
+                "screen_name": "nature_sc",
+                "tweets": 1,
+                "location": "South Carolina",
+                "primary_geo": "South Carolina",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 847411045,
+            "features": {
+                "name": "King Slime",
+                "id": 847411045,
+                "screen_name": "Aurailen",
+                "tweets": 1,
+                "location": "Maryland, USA",
+                "primary_geo": "Maryland, USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 354953350,
+            "features": {
+                "name": "Bella Noche",
+                "id": 354953350,
+                "screen_name": "EvelynMarie_",
+                "tweets": 1,
+                "location": "717",
+                "primary_geo": "717",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 84178144,
+            "features": {
+                "name": "Greg Biggs",
+                "id": 84178144,
+                "screen_name": "techgolf44",
+                "tweets": 1,
+                "location": "Clinton, MS",
+                "primary_geo": "Clinton, MS",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 750451067398201344,
+            "features": {
+                "name": "\u22c6 stardusticaye \u22c6",
+                "id": 750451067398201344,
+                "screen_name": "stardusticaye",
+                "tweets": 2,
+                "location": "under the \ud83c\udf19, next to a \ud83c\udf35, CA",
+                "primary_geo": "under the \ud83c\udf19, next to a \ud83c\udf35, CA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 786654143666491392,
+            "features": {
+                "name": "Tap Sports by Glu",
+                "id": 786654143666491392,
+                "screen_name": "GluTapSports",
+                "tweets": 1,
+                "location": "The United States of America",
+                "primary_geo": "The United States of America",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 982635738671075328,
+            "features": {
+                "name": "possum",
+                "id": 982635738671075328,
+                "screen_name": "Possum_PictBot",
+                "tweets": 10,
+                "location": "Aberdeen, Scottish not British",
+                "primary_geo": "Aberdeen, Scottish not British",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1335443048,
+            "features": {
+                "name": "$avage\ud83d\udc0f",
+                "id": 1335443048,
+                "screen_name": "_AG4NSavage",
+                "tweets": 1,
+                "location": "Atlanta, GA",
+                "primary_geo": "Atlanta, GA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 179009862,
+            "features": {
+                "name": "ellie",
+                "id": 179009862,
+                "screen_name": "dunathema",
+                "tweets": 1,
+                "location": "wsc london '17, \u201818 + \u201819",
+                "primary_geo": "wsc london '17, \u201818 + \u201819",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 14577735,
+            "features": {
+                "name": "post-it note on a board for whomst \ud83d\udcdc",
+                "id": 14577735,
+                "screen_name": "fishmanpet",
+                "tweets": 1,
+                "location": "Minneapolis, United States",
+                "primary_geo": "Minneapolis, United States",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 631473970,
+            "features": {
+                "name": "georgecrump.",
+                "id": 631473970,
+                "screen_name": "ourkidgeorge",
+                "tweets": 1,
+                "location": "Manchester, England",
+                "primary_geo": "Manchester, England",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1387725252,
+            "features": {
+                "name": "Perfect Little Soup Bran",
+                "id": 1387725252,
+                "screen_name": "ItsTheBrandi",
+                "tweets": 1,
+                "location": "MN",
+                "primary_geo": "MN",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 943700941,
+            "features": {
+                "name": "GamingwithVon",
+                "id": 943700941,
+                "screen_name": "GamingwithVon",
+                "tweets": 1,
+                "location": "Wisconsin",
+                "primary_geo": "Wisconsin",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 939172418114928640,
+            "features": {
+                "name": "Surface to Air System",
+                "id": 939172418114928640,
+                "screen_name": "S2ASystem",
+                "tweets": 1,
+                "location": "Monterey, CA",
+                "primary_geo": "Monterey, CA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 784806908737753088,
+            "features": {
+                "name": "Planet Tweet",
+                "id": 784806908737753088,
+                "screen_name": "Planet_Twweet",
+                "tweets": 1,
+                "location": "USA",
+                "primary_geo": "USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 107837733,
+            "features": {
+                "name": "Ubay Syakhisk",
+                "id": 107837733,
+                "screen_name": "UbaySyakhisk",
+                "tweets": 1,
+                "location": "Bandung, Jawa Barat",
+                "primary_geo": "Bandung, Jawa Barat",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 771115458657419264,
+            "features": {
+                "name": "Ana Ribeiro",
+                "id": 771115458657419264,
+                "screen_name": "AnaDreadful",
+                "tweets": 1,
+                "location": "Washington, DC",
+                "primary_geo": "Washington, DC",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 16353944,
+            "features": {
+                "name": "Liz Jostes",
+                "id": 16353944,
+                "screen_name": "LizJostes",
+                "tweets": 2,
+                "location": "Memphis, TN",
+                "primary_geo": "Memphis, TN",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 738736029419474945,
+            "features": {
+                "name": "\ud83c\udf79Kimmy Buffett \ud83c\udf79",
+                "id": 738736029419474945,
+                "screen_name": "KimmyBuffett",
+                "tweets": 1,
+                "location": "Grand Rapids, MI",
+                "primary_geo": "Grand Rapids, MI",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 307423307,
+            "features": {
+                "name": "xaninha twain",
+                "id": 307423307,
+                "screen_name": "PiinkCookie",
+                "tweets": 1,
+                "location": "mana\u00f3s",
+                "primary_geo": "mana\u00f3s",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 789131749427208192,
+            "features": {
+                "name": "Keil the Possum",
+                "id": 789131749427208192,
+                "screen_name": "keil_possum",
+                "tweets": 1,
+                "location": "Morgan Hughes' engine block.",
+                "primary_geo": "Morgan Hughes' engine block.",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 450093076,
+            "features": {
+                "name": "davy Taylorbot",
+                "id": 450093076,
+                "screen_name": "davytaylor1205",
+                "tweets": 1,
+                "location": "East Kilbride, Scotland",
+                "primary_geo": "East Kilbride, Scotland",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 415726796,
+            "features": {
+                "name": "Sinead Walsh",
+                "id": 415726796,
+                "screen_name": "sinbin86",
+                "tweets": 1,
+                "location": "Belfast",
+                "primary_geo": "Belfast",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 827689538105389056,
+            "features": {
+                "name": "EPA_kids++",
+                "id": 827689538105389056,
+                "screen_name": "EPA_Kids",
+                "tweets": 1,
+                "location": "Newmarket, Ontario",
+                "primary_geo": "Newmarket, Ontario",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1671862382,
+            "features": {
+                "name": "Tari",
+                "id": 1671862382,
+                "screen_name": "TariBKfan",
+                "tweets": 1,
+                "location": "Montana, USA",
+                "primary_geo": "Montana, USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 146970081,
+            "features": {
+                "name": "rocky balbooty\ud83c\udf51",
+                "id": 146970081,
+                "screen_name": "smaragduss",
+                "tweets": 1,
+                "location": "denny's",
+                "primary_geo": "denny's",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 808404671941529600,
+            "features": {
+                "name": "Conservative Boricua",
+                "id": 808404671941529600,
+                "screen_name": "TeoGuzman63",
+                "tweets": 1,
+                "location": "Tampa, FL",
+                "primary_geo": "Tampa, FL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 4720638074,
+            "features": {
+                "name": "Leticia Faye \ud83d\udc15\ud83d\udc08\ud83d\udc22\ud83d\udcfa\ud83c\udfa5\u267b",
+                "id": 4720638074,
+                "screen_name": "terri2718",
+                "tweets": 1,
+                "location": "Rose Cottage, Collinsport, ME",
+                "primary_geo": "Rose Cottage, Collinsport, ME",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 744692952082096128,
+            "features": {
+                "name": "\u2615\ufe0fEzekial\u2615\ufe0f",
+                "id": 744692952082096128,
+                "screen_name": "Possum_Possy",
+                "tweets": 4,
+                "location": "Sunderland, England",
+                "primary_geo": "Sunderland, England",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 314764213,
+            "features": {
+                "name": "Awesome Possum",
+                "id": 314764213,
+                "screen_name": "Awwesome_Possum",
+                "tweets": 7,
+                "location": "Chippewa Falls, WI",
+                "primary_geo": "Chippewa Falls, WI",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 16781296,
+            "features": {
+                "name": "Emilio JRM",
+                "id": 16781296,
+                "screen_name": "cop_663",
+                "tweets": 1,
+                "location": "BDN (BCN)",
+                "primary_geo": "BDN (BCN)",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3540383417,
+            "features": {
+                "name": "Jordan Limmer",
+                "id": 3540383417,
+                "screen_name": "Jordanslimmer",
+                "tweets": 1,
+                "location": "Minneapolis, MN",
+                "primary_geo": "Minneapolis, MN",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 787063896490344449,
+            "features": {
+                "name": "Zen Bookworm",
+                "id": 787063896490344449,
+                "screen_name": "ZenBookworm",
+                "tweets": 1,
+                "location": "Wisconsin, USA",
+                "primary_geo": "Wisconsin, USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3087600593,
+            "features": {
+                "name": "\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc8b\u200d\ud83d\udc69LEDGESBIAN\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc8b\u200d\ud83d\udc69 #GunControlNow",
+                "id": 3087600593,
+                "screen_name": "chromquwu",
+                "tweets": 1,
+                "location": "EST (GMT-4) \ud83e\udde1 ENG+FR ok!",
+                "primary_geo": "EST (GMT-4) \ud83e\udde1 ENG+FR ok!",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 19265917,
+            "features": {
+                "name": "Sarah",
+                "id": 19265917,
+                "screen_name": "SarrahRae",
+                "tweets": 1,
+                "location": "Illinois",
+                "primary_geo": "Illinois",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 526911781,
+            "features": {
+                "name": "LHV",
+                "id": 526911781,
+                "screen_name": "LHVanhorn",
+                "tweets": 1,
+                "location": "Jacksonville, FL",
+                "primary_geo": "Jacksonville, FL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1482206677,
+            "features": {
+                "name": "Hebdo2015",
+                "id": 1482206677,
+                "screen_name": "DantesBeatrix",
+                "tweets": 1,
+                "location": "New York, NY",
+                "primary_geo": "New York, NY",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 327961517,
+            "features": {
+                "name": "Giles",
+                "id": 327961517,
+                "screen_name": "ahighelevation",
+                "tweets": 1,
+                "location": "Colorado",
+                "primary_geo": "Colorado",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2312188004,
+            "features": {
+                "name": "\ud83c\udf85\ud83d\udc80Halloween 2: Santa's Sins\ud83d\udc80\ud83c\udf85",
+                "id": 2312188004,
+                "screen_name": "BowlofGabe",
+                "tweets": 1,
+                "location": "Sloths Pit, WI",
+                "primary_geo": "Sloths Pit, WI",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 611336626,
+            "features": {
+                "name": "Cole McCreary",
+                "id": 611336626,
+                "screen_name": "DoctorBatman_",
+                "tweets": 1,
+                "location": "Carrollton, GA",
+                "primary_geo": "Carrollton, GA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 285361652,
+            "features": {
+                "name": "lil nick mullens",
+                "id": 285361652,
+                "screen_name": "RamBoutIt",
+                "tweets": 1,
+                "location": "House of blue leaves",
+                "primary_geo": "House of blue leaves",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 446484549,
+            "features": {
+                "name": "Dad Bod Todd",
+                "id": 446484549,
+                "screen_name": "Possum_Boy_hell",
+                "tweets": 2,
+                "location": "Hell",
+                "primary_geo": "Hell",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 49701689,
+            "features": {
+                "name": "Dark Sky Films",
+                "id": 49701689,
+                "screen_name": "darkskyfilms",
+                "tweets": 2,
+                "location": "Orland Park, IL",
+                "primary_geo": "Orland Park, IL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 83358795,
+            "features": {
+                "name": "Universities Aust.",
+                "id": 83358795,
+                "screen_name": "uniaus",
+                "tweets": 1,
+                "location": "Canberra",
+                "primary_geo": "Canberra",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 63096959,
+            "features": {
+                "name": "margot\ud83c\udfac",
+                "id": 63096959,
+                "screen_name": "lNCEPTl0N",
+                "tweets": 1,
+                "location": "film uni at brussels",
+                "primary_geo": "film uni at brussels",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 4163837472,
+            "features": {
+                "name": "Em @ PAXAUS",
+                "id": 4163837472,
+                "screen_name": "ej_branagan",
+                "tweets": 1,
+                "location": "Melbourne, Victoria",
+                "primary_geo": "Melbourne, Victoria",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 40334265,
+            "features": {
+                "name": "the Ree",
+                "id": 40334265,
+                "screen_name": "reecodes",
+                "tweets": 1,
+                "location": "Edinburgh, UK",
+                "primary_geo": "Edinburgh, UK",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 865694359504773121,
+            "features": {
+                "name": "Insole Bound Pup",
+                "id": 865694359504773121,
+                "screen_name": "pup_insole",
+                "tweets": 1,
+                "location": "Fort Riley, KS",
+                "primary_geo": "Fort Riley, KS",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 4919296243,
+            "features": {
+                "name": "Elizabeth Thurston",
+                "id": 4919296243,
+                "screen_name": "lizbitbaby88",
+                "tweets": 1,
+                "location": "Reidsville, NC",
+                "primary_geo": "Reidsville, NC",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 16013211,
+            "features": {
+                "name": "Lisa D. Jenkins \ud83d\udcda \ud83c\udfae",
+                "id": 16013211,
+                "screen_name": "LisaDJenkins",
+                "tweets": 1,
+                "location": "Coming To A City Near You",
+                "primary_geo": "Coming To A City Near You",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 916293355683958784,
+            "features": {
+                "name": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08Peaches\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "id": 916293355683958784,
+                "screen_name": "Tweet_Fuzz",
+                "tweets": 1,
+                "location": "Philadelphia, PA",
+                "primary_geo": "Philadelphia, PA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 823977635768365056,
+            "features": {
+                "name": "ZIA",
+                "id": 823977635768365056,
+                "screen_name": "ZacksAwareness",
+                "tweets": 1,
+                "location": "United States",
+                "primary_geo": "United States",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1278997831,
+            "features": {
+                "name": "Taylor",
+                "id": 1278997831,
+                "screen_name": "tcantrell2989",
+                "tweets": 1,
+                "location": "New York",
+                "primary_geo": "New York",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 746740031914577920,
+            "features": {
+                "name": "Ferret Slave",
+                "id": 746740031914577920,
+                "screen_name": "FerretSlave",
+                "tweets": 1,
+                "location": "Dallas, TX",
+                "primary_geo": "Dallas, TX",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 830161762657959938,
+            "features": {
+                "name": "tim",
+                "id": 830161762657959938,
+                "screen_name": "GuttersnipeMojo",
+                "tweets": 1,
+                "location": "Florida",
+                "primary_geo": "Florida",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 36556029,
+            "features": {
+                "name": "Papa Possum",
+                "id": 36556029,
+                "screen_name": "papapossum",
+                "tweets": 2,
+                "location": "Slipped the Nutmeg Curtain",
+                "primary_geo": "Slipped the Nutmeg Curtain",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 944349946823823360,
+            "features": {
+                "name": "EricaLuvsHorror\ud83c\udf83\ud83d\udd2a",
+                "id": 944349946823823360,
+                "screen_name": "Momoftwins1996",
+                "tweets": 1,
+                "location": "Central Florida",
+                "primary_geo": "Central Florida",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 35452369,
+            "features": {
+                "name": "Kunal Behera",
+                "id": 35452369,
+                "screen_name": "beinkunalbehera",
+                "tweets": 1,
+                "location": "My Mind",
+                "primary_geo": "My Mind",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 833972582,
+            "features": {
+                "name": "Bigfoot Mountain",
+                "id": 833972582,
+                "screen_name": "sasysquatchgirl",
+                "tweets": 1,
+                "location": "Black Lagoon , New England",
+                "primary_geo": "Black Lagoon , New England",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 895097588155691010,
+            "features": {
+                "name": "Cinema Chop Shop",
+                "id": 895097588155691010,
+                "screen_name": "CinemaChopShop",
+                "tweets": 1,
+                "location": "Florence, SC",
+                "primary_geo": "Florence, SC",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1054678788292988929,
+            "features": {
+                "name": "Jeff Culler Comedy",
+                "id": 1054678788292988929,
+                "screen_name": "comedy_jeff",
+                "tweets": 1,
+                "location": "Las Vegas, NV",
+                "primary_geo": "George Jones Museum, ",
+                "geo_type": "Tweet place"
+            }
+        },
+        {
+            "user_id": 154977758,
+            "features": {
+                "name": "Jeff Culler \ud83d\udc0e\ud83c\uddeb\ud83c\uddf7\ud83c\udf0a\ud83d\udcaa\ud83d\uddf3\ufe0f",
+                "id": 154977758,
+                "screen_name": "HorseJeff",
+                "tweets": 1,
+                "location": "Las Vegas, NV",
+                "primary_geo": "George Jones Museum, ",
+                "geo_type": "Tweet place"
+            }
+        },
+        {
+            "user_id": 2180777917,
+            "features": {
+                "name": "Lilly Behary",
+                "id": 2180777917,
+                "screen_name": "lillybeh",
+                "tweets": 1,
+                "location": "Georgetown, Guyana",
+                "primary_geo": "Georgetown, Guyana",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 27128781,
+            "features": {
+                "name": "Liz Smith",
+                "id": 27128781,
+                "screen_name": "Kybelle1957Liz",
+                "tweets": 1,
+                "location": "USA",
+                "primary_geo": "USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 55430565,
+            "features": {
+                "name": "Milhomens",
+                "id": 55430565,
+                "screen_name": "tmilhomens",
+                "tweets": 1,
+                "location": "Onibus lotado.",
+                "primary_geo": "Onibus lotado.",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 793633167517384704,
+            "features": {
+                "name": "eht\u00fapido",
+                "id": 793633167517384704,
+                "screen_name": "pootoesucio",
+                "tweets": 1,
+                "location": "New York, NY",
+                "primary_geo": "New York, NY",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1223243808,
+            "features": {
+                "name": "Raynor Dyson @ ASE",
+                "id": 1223243808,
+                "screen_name": "MontyQwertovsky",
+                "tweets": 1,
+                "location": "BISEXUALVILLE",
+                "primary_geo": "BISEXUALVILLE",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1397792929,
+            "features": {
+                "name": "David Kieltyka",
+                "id": 1397792929,
+                "screen_name": "Tele1953",
+                "tweets": 1,
+                "location": "Michigan",
+                "primary_geo": "Michigan",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1060628317609570309,
+            "features": {
+                "name": "Food Bag",
+                "id": 1060628317609570309,
+                "screen_name": "FoodBag503",
+                "tweets": 1,
+                "location": "Birch Street Bristol, CT, USA",
+                "primary_geo": "Birch Street Bristol, CT, USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 702954706981621760,
+            "features": {
+                "name": "Black Cat's Shadow",
+                "id": 702954706981621760,
+                "screen_name": "blackcatpodcast",
+                "tweets": 1,
+                "location": "The Dark Heartland",
+                "primary_geo": "The Dark Heartland",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3460109487,
+            "features": {
+                "name": "Endpoints News",
+                "id": 3460109487,
+                "screen_name": "endpts",
+                "tweets": 1,
+                "location": "Global",
+                "primary_geo": "Global",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1312089032,
+            "features": {
+                "name": "Poss boss",
+                "id": 1312089032,
+                "screen_name": "fattyopossum",
+                "tweets": 1,
+                "location": "Portland, ME",
+                "primary_geo": "Portland, ME",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 864645740,
+            "features": {
+                "name": "leigh jalland",
+                "id": 864645740,
+                "screen_name": "leighjalland",
+                "tweets": 1,
+                "location": "Braintree, Essex , England",
+                "primary_geo": "Braintree, Essex , England",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 806624065385627648,
+            "features": {
+                "name": "I have a little faith in the White Sox",
+                "id": 806624065385627648,
+                "screen_name": "NoMoneyMitch_",
+                "tweets": 1,
+                "location": "Round Lake Beach, IL",
+                "primary_geo": "Round Lake Beach, IL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 878122647674015744,
+            "features": {
+                "name": "Jonny\ud83c\udf52",
+                "id": 878122647674015744,
+                "screen_name": "jonny_possum",
+                "tweets": 2,
+                "location": "Anaheim, CA",
+                "primary_geo": "Anaheim, CA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1934987335,
+            "features": {
+                "name": "Hyucaze",
+                "id": 1934987335,
+                "screen_name": "hyucaze",
+                "tweets": 1,
+                "location": "Cayman Islands",
+                "primary_geo": "Cayman Islands",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 288425459,
+            "features": {
+                "name": "Anthony Galamini",
+                "id": 288425459,
+                "screen_name": "AntGala84",
+                "tweets": 1,
+                "location": "Hamilton, Ontario",
+                "primary_geo": "Hamilton, Ontario",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1011508145745735680,
+            "features": {
+                "name": "Fredo",
+                "id": 1011508145745735680,
+                "screen_name": "AlfredoMorreel",
+                "tweets": 1,
+                "location": "Antwerpen, Belgi\u00eb",
+                "primary_geo": "Antwerpen, Belgi\u00eb",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1656432030,
+            "features": {
+                "name": "Nick Calandra",
+                "id": 1656432030,
+                "screen_name": "nickjcal",
+                "tweets": 1,
+                "location": "Lincoln, NE",
+                "primary_geo": "Lincoln, NE",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2154246846,
+            "features": {
+                "name": "\ud83d\udc80\ud83c\udf83Severe Melancholy\ud83c\udf83\ud83d\udc80",
+                "id": 2154246846,
+                "screen_name": "TheSunIsCrying_",
+                "tweets": 1,
+                "location": "22th Lvl of Hell",
+                "primary_geo": "22th Lvl of Hell",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 845489778200104960,
+            "features": {
+                "name": "P",
+                "id": 845489778200104960,
+                "screen_name": "p_b_ez",
+                "tweets": 1,
+                "location": "Homestead, FL",
+                "primary_geo": "Homestead, FL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 807653410606452736,
+            "features": {
+                "name": "CmdrHD",
+                "id": 807653410606452736,
+                "screen_name": "cmdr_hd",
+                "tweets": 1,
+                "location": "Chesapeake Bay, Amer. Colonies",
+                "primary_geo": "Chesapeake Bay, Amer. Colonies",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 310547809,
+            "features": {
+                "name": "Black And The Music",
+                "id": 310547809,
+                "screen_name": "BATM_1",
+                "tweets": 1,
+                "location": "Baltimore, MD",
+                "primary_geo": "Baltimore, MD",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 235849127,
+            "features": {
+                "name": "Fredo\u2744\ufe0f",
+                "id": 235849127,
+                "screen_name": "FredoDeuceDeuce",
+                "tweets": 1,
+                "location": "Maryland, for now",
+                "primary_geo": "Maryland, for now",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 272583562,
+            "features": {
+                "name": "Charlotte Pearson",
+                "id": 272583562,
+                "screen_name": "FILMTVDESIGN",
+                "tweets": 1,
+                "location": "London",
+                "primary_geo": "London",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 834191325838848000,
+            "features": {
+                "name": "David Jude",
+                "id": 834191325838848000,
+                "screen_name": "DavidJudeThoma1",
+                "tweets": 1,
+                "location": "Castro, San Francisco, Cali. ",
+                "primary_geo": "San Francisco, CA, United States",
+                "geo_type": "Tweet place"
+            }
+        },
+        {
+            "user_id": 3277637570,
+            "features": {
+                "name": "Bryce H",
+                "id": 3277637570,
+                "screen_name": "bryceatrenew",
+                "tweets": 1,
+                "location": "yacolt,wa.",
+                "primary_geo": "yacolt,wa.",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 4876644330,
+            "features": {
+                "name": "Zack Capp",
+                "id": 4876644330,
+                "screen_name": "zackcapp",
+                "tweets": 1,
+                "location": "Chicago, IL",
+                "primary_geo": "Chicago, IL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 771055254989316096,
+            "features": {
+                "name": "ZC",
+                "id": 771055254989316096,
+                "screen_name": "InstitutionalZC",
+                "tweets": 1,
+                "location": "Chicago, IL",
+                "primary_geo": "Chicago, IL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 940742962400636928,
+            "features": {
+                "name": "Nanoha Takamachi",
+                "id": 940742962400636928,
+                "screen_name": "BokuNoGenKikeba",
+                "tweets": 1,
+                "location": "In bed with Hayate & Fate",
+                "primary_geo": "In bed with Hayate & Fate",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3116348521,
+            "features": {
+                "name": "Nate",
+                "id": 3116348521,
+                "screen_name": "Nate_Dogg_37",
+                "tweets": 1,
+                "location": "Austin, TX",
+                "primary_geo": "Austin, TX",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 171159132,
+            "features": {
+                "name": "\ud83c\udfac",
+                "id": 171159132,
+                "screen_name": "DuaineRoberts",
+                "tweets": 1,
+                "location": "Everywhere",
+                "primary_geo": "Everywhere",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 24911388,
+            "features": {
+                "name": "David Aguilera",
+                "id": 24911388,
+                "screen_name": "Vertigo007",
+                "tweets": 1,
+                "location": "Tarragona, Espa\u00f1a",
+                "primary_geo": "Tarragona, Espa\u00f1a",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 43478347,
+            "features": {
+                "name": "Vanessa Nunez",
+                "id": 43478347,
+                "screen_name": "VanessaNez",
+                "tweets": 1,
+                "location": "Topeka, KS",
+                "primary_geo": "Topeka, KS",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 22720088,
+            "features": {
+                "name": "I only tweet about sports",
+                "id": 22720088,
+                "screen_name": "Scott_CEOofSUH",
+                "tweets": 1,
+                "location": "LA via Chicago",
+                "primary_geo": "LA via Chicago",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1254136784,
+            "features": {
+                "name": "\u0414\u043e\u043d\u044f \u043b\u044e\u0431\u0438\u0442 \u0428\u0430\u0440\u0444\u0443",
+                "id": 1254136784,
+                "screen_name": "Donna_132",
+                "tweets": 51,
+                "location": "Dubna Moscow Region Russia",
+                "primary_geo": "Dubna Moscow Region Russia",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 60259295,
+            "features": {
+                "name": "Fernando Gonzalez",
+                "id": 60259295,
+                "screen_name": "fernando_gunner",
+                "tweets": 1,
+                "location": "Castle Rock",
+                "primary_geo": "Castle Rock",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1042970598056574976,
+            "features": {
+                "name": "Browns Rally Possum",
+                "id": 1042970598056574976,
+                "screen_name": "Browns_Possum",
+                "tweets": 4,
+                "location": "Cleveland, OH",
+                "primary_geo": "Cleveland, OH",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2160215420,
+            "features": {
+                "name": "Pleasant Job DeMoss",
+                "id": 2160215420,
+                "screen_name": "PleasantJDeMoss",
+                "tweets": 1,
+                "location": "somewhere clever",
+                "primary_geo": "somewhere clever",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3121660893,
+            "features": {
+                "name": "Zack Capp Plus",
+                "id": 3121660893,
+                "screen_name": "zackcappsocial",
+                "tweets": 1,
+                "location": "Chicago, IL",
+                "primary_geo": "Chicago, IL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 550289568,
+            "features": {
+                "name": "Carrie Paul",
+                "id": 550289568,
+                "screen_name": "CarriePaul",
+                "tweets": 1,
+                "location": "Huffman, Texas",
+                "primary_geo": "Houston, TX, United States",
+                "geo_type": "Tweet place"
+            }
+        },
+        {
+            "user_id": 74173402,
+            "features": {
+                "name": "James Ray",
+                "id": 74173402,
+                "screen_name": "GigoloJimRay",
+                "tweets": 1,
+                "location": "The Squared Circle",
+                "primary_geo": "The Squared Circle",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 82641478,
+            "features": {
+                "name": "YH",
+                "id": 82641478,
+                "screen_name": "ADogmaticCaveat",
+                "tweets": 1,
+                "location": "East Providence",
+                "primary_geo": "East Providence",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 26589430,
+            "features": {
+                "name": "Gema",
+                "id": 26589430,
+                "screen_name": "decadentdarling",
+                "tweets": 1,
+                "location": "Madrid",
+                "primary_geo": "Madrid",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 625431827,
+            "features": {
+                "name": "Lori333",
+                "id": 625431827,
+                "screen_name": "and_Possum",
+                "tweets": 18,
+                "location": "Jerusalem",
+                "primary_geo": "Jerusalem",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 43203857,
+            "features": {
+                "name": "Jay \ud83d\udc22",
+                "id": 43203857,
+                "screen_name": "GreendotEmo",
+                "tweets": 1,
+                "location": "Vormir - London, England",
+                "primary_geo": "Vormir - London, England",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 23171848,
+            "features": {
+                "name": "Katie",
+                "id": 23171848,
+                "screen_name": "danceflosilly",
+                "tweets": 1,
+                "location": "Wisconsin",
+                "primary_geo": "Wisconsin",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 26284886,
+            "features": {
+                "name": "Milsa Benavente",
+                "id": 26284886,
+                "screen_name": "MilsaBenavente",
+                "tweets": 1,
+                "location": "Chile",
+                "primary_geo": "Chile",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 444361534,
+            "features": {
+                "name": "Tre'",
+                "id": 444361534,
+                "screen_name": "treTAYLOREDUP",
+                "tweets": 1,
+                "location": "Rockmills Al ",
+                "primary_geo": "Rockmills Al ",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 949184990369255425,
+            "features": {
+                "name": "Jef Hughes",
+                "id": 949184990369255425,
+                "screen_name": "OneEffInJef",
+                "tweets": 1,
+                "location": "Connah's Quay, Wales",
+                "primary_geo": "Connah's Quay, Wales, United Kingdom",
+                "geo_type": "Tweet place"
+            }
+        },
+        {
+            "user_id": 103494830,
+            "features": {
+                "name": "\u305c\u304f\u3059\uff20\u307d\u3063\u3055\u3080",
+                "id": 103494830,
+                "screen_name": "possum_possum",
+                "tweets": 1,
+                "location": "\u9b54\u90fd\u65b0\u6f5f",
+                "primary_geo": "\u9b54\u90fd\u65b0\u6f5f",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 592193688,
+            "features": {
+                "name": "Eric Karell",
+                "id": 592193688,
+                "screen_name": "TRufus",
+                "tweets": 1,
+                "location": "The South",
+                "primary_geo": "The South",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 755643247,
+            "features": {
+                "name": "Clay von Carlowitz",
+                "id": 755643247,
+                "screen_name": "ClayvonC",
+                "tweets": 1,
+                "location": "New York, NY",
+                "primary_geo": "New York, NY",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 53223512,
+            "features": {
+                "name": "champagnepipey",
+                "id": 53223512,
+                "screen_name": "piperjane11",
+                "tweets": 1,
+                "location": "New York",
+                "primary_geo": "New York",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 502149864,
+            "features": {
+                "name": "Jonathan Kittrell",
+                "id": 502149864,
+                "screen_name": "jkittrell94",
+                "tweets": 1,
+                "location": "Charlotte, NC",
+                "primary_geo": "Charlotte, NC",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 15587060,
+            "features": {
+                "name": "Dan_Benenson",
+                "id": 15587060,
+                "screen_name": "Dan_Benenson",
+                "tweets": 1,
+                "location": "Philadelphia",
+                "primary_geo": "Philadelphia",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 384067924,
+            "features": {
+                "name": "TweetX2",
+                "id": 384067924,
+                "screen_name": "TweetweetAK",
+                "tweets": 1,
+                "location": "All over the place and Alaska",
+                "primary_geo": "All over the place and Alaska",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 886978039954984960,
+            "features": {
+                "name": "Joyce Shepard,CSW",
+                "id": 886978039954984960,
+                "screen_name": "JoyceShepard73",
+                "tweets": 1,
+                "location": "Queens, NY",
+                "primary_geo": "Queens, NY",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 30520052,
+            "features": {
+                "name": "Andrew Grover",
+                "id": 30520052,
+                "screen_name": "Nowtas",
+                "tweets": 1,
+                "location": "Derby, England",
+                "primary_geo": "Derby, England",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2895105546,
+            "features": {
+                "name": "Jewel Mauceri \ud83c\udf42",
+                "id": 2895105546,
+                "screen_name": "jewelmauceri",
+                "tweets": 1,
+                "location": "WA // CA",
+                "primary_geo": "WA // CA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 9295132,
+            "features": {
+                "name": "Chili\u2019s Too Breakfast Menu",
+                "id": 9295132,
+                "screen_name": "Sparkle_Possum",
+                "tweets": 1,
+                "location": "Fairfax, VA",
+                "primary_geo": "Fairfax, VA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3008610431,
+            "features": {
+                "name": "Alyssa Diaz",
+                "id": 3008610431,
+                "screen_name": "ScreamStreaming",
+                "tweets": 1,
+                "location": "Los Angeles",
+                "primary_geo": "Los Angeles",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3025645630,
+            "features": {
+                "name": "Yumikiko\ud83d\udcce",
+                "id": 3025645630,
+                "screen_name": "YumiStream",
+                "tweets": 1,
+                "location": "Dallas, TX",
+                "primary_geo": "Dallas, TX",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 387496753,
+            "features": {
+                "name": "Brina",
+                "id": 387496753,
+                "screen_name": "BrinaStarler",
+                "tweets": 1,
+                "location": "North Carolina",
+                "primary_geo": "North Carolina",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1021458790774976512,
+            "features": {
+                "name": "lejolyw",
+                "id": 1021458790774976512,
+                "screen_name": "lejolyw",
+                "tweets": 1,
+                "location": "Colmar, France",
+                "primary_geo": "Colmar, France",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 163925903,
+            "features": {
+                "name": "Johann Thorsson",
+                "id": 163925903,
+                "screen_name": "johannthors",
+                "tweets": 1,
+                "location": "Reykjavik, Iceland",
+                "primary_geo": "Reykjavik, Iceland",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 916103318912536576,
+            "features": {
+                "name": "Clayto \ud83d\udc22",
+                "id": 916103318912536576,
+                "screen_name": "claytoe24",
+                "tweets": 1,
+                "location": "Michigan, USA",
+                "primary_geo": "Michigan, USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 829100089436160001,
+            "features": {
+                "name": "Lex",
+                "id": 829100089436160001,
+                "screen_name": "lkdesaracho",
+                "tweets": 1,
+                "location": "Watching horror movies",
+                "primary_geo": "Watching horror movies",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2218451519,
+            "features": {
+                "name": "Thotimus Prime",
+                "id": 2218451519,
+                "screen_name": "Lil_tree_possum",
+                "tweets": 2,
+                "location": "St Petersburg, FL",
+                "primary_geo": "St Petersburg, FL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 869449058271641604,
+            "features": {
+                "name": "Jectoons",
+                "id": 869449058271641604,
+                "screen_name": "jectoons",
+                "tweets": 1,
+                "location": "Vancouver, British Columbia",
+                "primary_geo": "Vancouver, British Columbia",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 4514333315,
+            "features": {
+                "name": "Super Sic-o  \ud83d\udd25\ud83d\udcaa\ud83c\udffe\ud83d\udcaa\ud83c\udffeAFM\ud83d\udcaa\ud83c\udffe\ud83d\udcaa\ud83c\udffe\ud83d\udd25\ud83d\udd25",
+                "id": 4514333315,
+                "screen_name": "Super_Sic_o",
+                "tweets": 1,
+                "location": "Louisville, KY",
+                "primary_geo": "Louisville, KY",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1009621826316783616,
+            "features": {
+                "name": "toasted network",
+                "id": 1009621826316783616,
+                "screen_name": "ti222222",
+                "tweets": 4,
+                "location": "Cleveland, OH",
+                "primary_geo": "Cleveland, OH",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2657955351,
+            "features": {
+                "name": "DMV-P aka The MVP",
+                "id": 2657955351,
+                "screen_name": "dmv_p",
+                "tweets": 1,
+                "location": "Where ever your not!",
+                "primary_geo": "Where ever your not!",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3407227199,
+            "features": {
+                "name": "Seba",
+                "id": 3407227199,
+                "screen_name": "Seba_roar97",
+                "tweets": 1,
+                "location": "M\u00e1laga, Espa\u00f1a",
+                "primary_geo": "M\u00e1laga, Espa\u00f1a",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 253431819,
+            "features": {
+                "name": "Derlis A. Gonz\u00e1lez",
+                "id": 253431819,
+                "screen_name": "derlisagonzalez",
+                "tweets": 1,
+                "location": "Asuncion, Paraguay",
+                "primary_geo": "Asuncion, Paraguay",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 287296292,
+            "features": {
+                "name": "Ollie Jamieson",
+                "id": 287296292,
+                "screen_name": "OllieJamieson",
+                "tweets": 1,
+                "location": "London, England",
+                "primary_geo": "London, England",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 183452672,
+            "features": {
+                "name": "Nick Hernandez",
+                "id": 183452672,
+                "screen_name": "TheNicAnthony",
+                "tweets": 1,
+                "location": "NYC",
+                "primary_geo": "NYC",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 127492314,
+            "features": {
+                "name": "Isaac Paskual",
+                "id": 127492314,
+                "screen_name": "Paskualinho",
+                "tweets": 1,
+                "location": "Burgos (CyL), Spain",
+                "primary_geo": "Burgos (CyL), Spain",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 728004444412055553,
+            "features": {
+                "name": "Cloudshy Wolf",
+                "id": 728004444412055553,
+                "screen_name": "cloudshywolf",
+                "tweets": 1,
+                "location": "Massachusetts, USA",
+                "primary_geo": "Massachusetts, USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 760143976620064768,
+            "features": {
+                "name": "Paul Hibbard \ud83e\udd18\ud83d\udc80 \ud83c\udf83 \ud83d\udc7b \ud83e\udddf\u200d\u2640\ufe0f",
+                "id": 760143976620064768,
+                "screen_name": "monstersRreel",
+                "tweets": 1,
+                "location": "out there",
+                "primary_geo": "out there",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 156354800,
+            "features": {
+                "name": "eggy beard",
+                "id": 156354800,
+                "screen_name": "edknock",
+                "tweets": 1,
+                "location": "Nottingham, England",
+                "primary_geo": "Nottingham, England",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1009843666368827393,
+            "features": {
+                "name": "The Gore Connoisseurs",
+                "id": 1009843666368827393,
+                "screen_name": "GoreConnoisseur",
+                "tweets": 1,
+                "location": "London",
+                "primary_geo": "London",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 190486834,
+            "features": {
+                "name": "CEO PR",
+                "id": 190486834,
+                "screen_name": "_thestrategist",
+                "tweets": 1,
+                "location": "ATL",
+                "primary_geo": "ATL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 872277095594041344,
+            "features": {
+                "name": "We're All Cats Here",
+                "id": 872277095594041344,
+                "screen_name": "wereallcatshere",
+                "tweets": 1,
+                "location": "United States",
+                "primary_geo": "United States",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 165063163,
+            "features": {
+                "name": "JB  \ud83c\uddfa\ud83c\uddf8",
+                "id": 165063163,
+                "screen_name": "Texan765",
+                "tweets": 2,
+                "location": "In a van down by the river",
+                "primary_geo": "In a van down by the river",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 41873524,
+            "features": {
+                "name": "\ud83e\udd83\ud83c\udf57Tayci: Chaotic Good Rogue\ud83c\udf57\ud83e\udd83",
+                "id": 41873524,
+                "screen_name": "TayciBear",
+                "tweets": 1,
+                "location": "Wakanda, CA",
+                "primary_geo": "Wakanda, CA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 817061933597790208,
+            "features": {
+                "name": "Strength In Faith",
+                "id": 817061933597790208,
+                "screen_name": "Str_In_Faith",
+                "tweets": 1,
+                "location": "United States",
+                "primary_geo": "United States",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 52319005,
+            "features": {
+                "name": "Lido Shuffle",
+                "id": 52319005,
+                "screen_name": "saintwalker98",
+                "tweets": 1,
+                "location": "beyond time and space",
+                "primary_geo": "beyond time and space",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2367499014,
+            "features": {
+                "name": "Denver Animal Shelter",
+                "id": 2367499014,
+                "screen_name": "DASanimals",
+                "tweets": 1,
+                "location": "Denver, CO",
+                "primary_geo": "Denver, CO",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 245579041,
+            "features": {
+                "name": "Laura Keating",
+                "id": 245579041,
+                "screen_name": "LoreKeating",
+                "tweets": 1,
+                "location": "Montr\u00e9al",
+                "primary_geo": "Montr\u00e9al",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 37202599,
+            "features": {
+                "name": "J. Rafell",
+                "id": 37202599,
+                "screen_name": "Jemo009",
+                "tweets": 1,
+                "location": "California ",
+                "primary_geo": "California ",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 105573816,
+            "features": {
+                "name": "a Linn \u00e9 perfeita demais caralho",
+                "id": 105573816,
+                "screen_name": "diogmaia",
+                "tweets": 1,
+                "location": "Brazil",
+                "primary_geo": "Brazil",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 138423504,
+            "features": {
+                "name": "Jody Neil Ruth",
+                "id": 138423504,
+                "screen_name": "JodyNeilRuth",
+                "tweets": 1,
+                "location": "dirty south",
+                "primary_geo": "dirty south",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 359475684,
+            "features": {
+                "name": "Scarina's Vault",
+                "id": 359475684,
+                "screen_name": "ScarinasVault",
+                "tweets": 1,
+                "location": "Newark, NJ",
+                "primary_geo": "Newark, NJ",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1498609562,
+            "features": {
+                "name": "Zane Gray",
+                "id": 1498609562,
+                "screen_name": "ZaneyZeke96",
+                "tweets": 1,
+                "location": "Cuming, GA",
+                "primary_geo": "Cuming, GA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 901485640696700928,
+            "features": {
+                "name": "Jules",
+                "id": 901485640696700928,
+                "screen_name": "juliebethfenn",
+                "tweets": 1,
+                "location": "Planet of the apes",
+                "primary_geo": "Planet of the apes",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 902631500,
+            "features": {
+                "name": "Daniel Catucci",
+                "id": 902631500,
+                "screen_name": "danielcatucci1",
+                "tweets": 1,
+                "location": "Elmwood Park, IL",
+                "primary_geo": "Elmwood Park, IL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 842025643365691392,
+            "features": {
+                "name": "\u0158 \u0116 \u0110 \u0158 \u016e M",
+                "id": 842025643365691392,
+                "screen_name": "nick_carranco",
+                "tweets": 1,
+                "location": "wherever you're not",
+                "primary_geo": "wherever you're not",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 21729928,
+            "features": {
+                "name": "\u1d3c  \u02b7 \u1d49\u207f",
+                "id": 21729928,
+                "screen_name": "carnictis",
+                "tweets": 1,
+                "location": "48.415802.-89.2673",
+                "primary_geo": "48.415802.-89.2673",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2603180672,
+            "features": {
+                "name": "l\u00e9ane \ud83d\udcfd",
+                "id": 2603180672,
+                "screen_name": "Licoo138",
+                "tweets": 1,
+                "location": "lala land",
+                "primary_geo": "lala land",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 50409959,
+            "features": {
+                "name": "Allan Ver\u00edssimo",
+                "id": 50409959,
+                "screen_name": "verissimoallan",
+                "tweets": 1,
+                "location": "Santos, Brasil",
+                "primary_geo": "Santos, Brasil",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2297893270,
+            "features": {
+                "name": "Steven Irons",
+                "id": 2297893270,
+                "screen_name": "iron5blue",
+                "tweets": 1,
+                "location": "Liverpool",
+                "primary_geo": "Liverpool",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 926335085137166336,
+            "features": {
+                "name": "Rach",
+                "id": 926335085137166336,
+                "screen_name": "spooky_doings",
+                "tweets": 1,
+                "location": "Washington, USA",
+                "primary_geo": "Washington, USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 26447729,
+            "features": {
+                "name": "Diamond Rattler",
+                "id": 26447729,
+                "screen_name": "DiamondJRattler",
+                "tweets": 1,
+                "location": "Rapid City, SD",
+                "primary_geo": "Rapid City, SD",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 446502587,
+            "features": {
+                "name": "Kinsley Maxwell",
+                "id": 446502587,
+                "screen_name": "kmax_15",
+                "tweets": 1,
+                "location": "Kennesaw, GA",
+                "primary_geo": "Kennesaw, GA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1057432428875255808,
+            "features": {
+                "name": "Brandon C\u00e1rdenas",
+                "id": 1057432428875255808,
+                "screen_name": "BrandC95",
+                "tweets": 1,
+                "location": "M\u00e9xico",
+                "primary_geo": "M\u00e9xico",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 853841318,
+            "features": {
+                "name": "John Glover",
+                "id": 853841318,
+                "screen_name": "smythsewn",
+                "tweets": 1,
+                "location": "Richmond, Virginia",
+                "primary_geo": "Richmond, Virginia",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 795815240873164801,
+            "features": {
+                "name": "mau1092",
+                "id": 795815240873164801,
+                "screen_name": "maau1092",
+                "tweets": 1,
+                "location": "Nuevo Le\u00f3n, M\u00e9xico",
+                "primary_geo": "Nuevo Le\u00f3n, M\u00e9xico",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 183292389,
+            "features": {
+                "name": "Aborjinski",
+                "id": 183292389,
+                "screen_name": "seemilypray",
+                "tweets": 1,
+                "location": "Turkey",
+                "primary_geo": "Turkey",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 18173431,
+            "features": {
+                "name": "Justin Pierre",
+                "id": 18173431,
+                "screen_name": "repairmanxjack",
+                "tweets": 1,
+                "location": "Pennsylvania, USA",
+                "primary_geo": "Pennsylvania, USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 761399796024213504,
+            "features": {
+                "name": "nak totemudaisuki doraemoannnnn",
+                "id": 761399796024213504,
+                "screen_name": "kozand_me",
+                "tweets": 1,
+                "location": "dalam hati awak",
+                "primary_geo": "dalam hati awak",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2957550989,
+            "features": {
+                "name": "Oor Fuarach MacBot Blas",
+                "id": 2957550989,
+                "screen_name": "TheBritishLie",
+                "tweets": 5,
+                "location": "Here",
+                "primary_geo": "Here",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 266335090,
+            "features": {
+                "name": "\u1d18\u0280\u026a\u1d04\u026a\u029f\u029f\u1d00 \u1d0b\u1d1c\u1d0d\u1d00\u0280",
+                "id": 266335090,
+                "screen_name": "PricillaDevi",
+                "tweets": 1,
+                "location": "Sac Town",
+                "primary_geo": "Sac Town",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 741677155214561280,
+            "features": {
+                "name": "Frank Davies",
+                "id": 741677155214561280,
+                "screen_name": "frank3davies",
+                "tweets": 5,
+                "location": "Scotland.",
+                "primary_geo": "Scotland.",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3016645134,
+            "features": {
+                "name": "love, december",
+                "id": 3016645134,
+                "screen_name": "dcembervesalius",
+                "tweets": 1,
+                "location": "2 Places @ Once",
+                "primary_geo": "2 Places @ Once",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 927157269632049152,
+            "features": {
+                "name": "lou , gay , always on s/h ,",
+                "id": 927157269632049152,
+                "screen_name": "forestghibli",
+                "tweets": 1,
+                "location": "he/they | love you, jjong",
+                "primary_geo": "he/they | love you, jjong",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 83911608,
+            "features": {
+                "name": "\ud83e\udd40",
+                "id": 83911608,
+                "screen_name": "sheIovespizza",
+                "tweets": 1,
+                "location": "in my chaos.",
+                "primary_geo": "in my chaos.",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 572999809,
+            "features": {
+                "name": "maddy wailes",
+                "id": 572999809,
+                "screen_name": "maddywailes",
+                "tweets": 1,
+                "location": "Los Angeles, CA",
+                "primary_geo": "Los Angeles, CA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 154665377,
+            "features": {
+                "name": "Craig Mckenzie",
+                "id": 154665377,
+                "screen_name": "Cadenza_MegaL",
+                "tweets": 1,
+                "location": "Glasgow, Scotland",
+                "primary_geo": "Glasgow, Scotland",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2852572484,
+            "features": {
+                "name": "Elaine J",
+                "id": 2852572484,
+                "screen_name": "EJ_Possum",
+                "tweets": 1,
+                "location": "Auckland",
+                "primary_geo": "Auckland",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1137833198,
+            "features": {
+                "name": "Sias",
+                "id": 1137833198,
+                "screen_name": "SiasAFeliciano",
+                "tweets": 1,
+                "location": "Arkham Asylum",
+                "primary_geo": "Arkham Asylum",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 558640571,
+            "features": {
+                "name": "Simon Dewar",
+                "id": 558640571,
+                "screen_name": "herodfel",
+                "tweets": 1,
+                "location": "Canberra, Australia",
+                "primary_geo": "Canberra, Australia",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 184440898,
+            "features": {
+                "name": "Z\u00e9 Guilherme",
+                "id": 184440898,
+                "screen_name": "ZeGuilhermeF",
+                "tweets": 1,
+                "location": "Jo\u00e3o Pessoa, Para\u00edba",
+                "primary_geo": "Jo\u00e3o Pessoa, Para\u00edba",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 761660434625724416,
+            "features": {
+                "name": "k\ud83c\udf42",
+                "id": 761660434625724416,
+                "screen_name": "wonderprentiss",
+                "tweets": 1,
+                "location": "hell",
+                "primary_geo": "hell",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 453662658,
+            "features": {
+                "name": "Wes Wood",
+                "id": 453662658,
+                "screen_name": "weswoood",
+                "tweets": 1,
+                "location": "24",
+                "primary_geo": "24",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 220508194,
+            "features": {
+                "name": "Luke Smeenk",
+                "id": 220508194,
+                "screen_name": "LSmeenk",
+                "tweets": 1,
+                "location": "Los Angeles, CA",
+                "primary_geo": "Los Angeles, CA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 174144887,
+            "features": {
+                "name": "Rick G. Rosner",
+                "id": 174144887,
+                "screen_name": "dumbassgenius",
+                "tweets": 1,
+                "location": "Los Angeles",
+                "primary_geo": "Los Angeles",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2473760746,
+            "features": {
+                "name": "cucaracha acu\u00e1tica",
+                "id": 2473760746,
+                "screen_name": "Sir_McCormick",
+                "tweets": 1,
+                "location": "Evergreen Terrace, 742",
+                "primary_geo": "Evergreen Terrace, 742",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 117807144,
+            "features": {
+                "name": "Josiah Powell",
+                "id": 117807144,
+                "screen_name": "JosiahPowell",
+                "tweets": 1,
+                "location": "Los Angeles, CA",
+                "primary_geo": "Los Angeles, CA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 22018656,
+            "features": {
+                "name": "dago garcia",
+                "id": 22018656,
+                "screen_name": "tehdago",
+                "tweets": 1,
+                "location": "Austin, TX",
+                "primary_geo": "Austin, TX",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 18974045,
+            "features": {
+                "name": "MonstroTuga",
+                "id": 18974045,
+                "screen_name": "MonstroTuga",
+                "tweets": 1,
+                "location": "Lisbon, Portugal - Montreal, Quebec",
+                "primary_geo": "Lisbon, Portugal - Montreal, Quebec",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1002845885867360256,
+            "features": {
+                "name": "Antonio Marchese",
+                "id": 1002845885867360256,
+                "screen_name": "Antonio30009009",
+                "tweets": 1,
+                "location": "Murcia, Espa\u00f1a",
+                "primary_geo": "Murcia, Espa\u00f1a",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 21448569,
+            "features": {
+                "name": "Ol festive ass bitch // IG: jefmphotography",
+                "id": 21448569,
+                "screen_name": "SpikeGhost",
+                "tweets": 1,
+                "location": "Qu\u00e9bec, Canada",
+                "primary_geo": "Qu\u00e9bec, Canada",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 21953799,
+            "features": {
+                "name": "Jeffy",
+                "id": 21953799,
+                "screen_name": "JustSomeDude899",
+                "tweets": 1,
+                "location": "Dekalb, IL",
+                "primary_geo": "Dekalb, IL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 35520111,
+            "features": {
+                "name": "Lowell Dean",
+                "id": 35520111,
+                "screen_name": "lolofilm",
+                "tweets": 1,
+                "location": "Canada",
+                "primary_geo": "Canada",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 85957052,
+            "features": {
+                "name": "Carlos Garc\u00eda",
+                "id": 85957052,
+                "screen_name": "CarlosGa94",
+                "tweets": 1,
+                "location": "Monterrey, Nuevo Le\u00f3n",
+                "primary_geo": "Monterrey, Nuevo Le\u00f3n",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 313373279,
+            "features": {
+                "name": "Shadow Skaggs",
+                "id": 313373279,
+                "screen_name": "ShadowSkaggs",
+                "tweets": 1,
+                "location": "606",
+                "primary_geo": "606",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 349456375,
+            "features": {
+                "name": "Fred",
+                "id": 349456375,
+                "screen_name": "Fredericiv",
+                "tweets": 1,
+                "location": "Kentucky",
+                "primary_geo": "Kentucky",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3131630417,
+            "features": {
+                "name": "Big Picture Film Club",
+                "id": 3131630417,
+                "screen_name": "bigpicfilmclub",
+                "tweets": 1,
+                "location": "United Kingdom",
+                "primary_geo": "United Kingdom",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 466953226,
+            "features": {
+                "name": "KrisS \ud83d\udd25 Your Vote, Your Voice \ud83d\udd25",
+                "id": 466953226,
+                "screen_name": "MplsMe",
+                "tweets": 1,
+                "location": "Minneapolis, MN",
+                "primary_geo": "Minneapolis, MN",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2663383536,
+            "features": {
+                "name": "orange_parrot",
+                "id": 2663383536,
+                "screen_name": "orange_parrot19",
+                "tweets": 1,
+                "location": "north america, earth",
+                "primary_geo": "north america, earth",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 77182327,
+            "features": {
+                "name": "Dr Stephen Curtis",
+                "id": 77182327,
+                "screen_name": "EarlyModBlood",
+                "tweets": 1,
+                "location": "Lancaster, UK",
+                "primary_geo": "Lancaster, UK",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 4329572361,
+            "features": {
+                "name": "'Drew Forest Writes'",
+                "id": 4329572361,
+                "screen_name": "D_R_Forest",
+                "tweets": 1,
+                "location": "Manchester, England",
+                "primary_geo": "Manchester, England",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 5512042,
+            "features": {
+                "name": "Henrique Lage",
+                "id": 5512042,
+                "screen_name": "Henrique_Lage",
+                "tweets": 1,
+                "location": "Coru\u00f1a",
+                "primary_geo": "Coru\u00f1a",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3944710515,
+            "features": {
+                "name": "snouts.online/@niittis",
+                "id": 3944710515,
+                "screen_name": "_Raake_",
+                "tweets": 1,
+                "location": "Finland",
+                "primary_geo": "Finland",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3331761063,
+            "features": {
+                "name": "jango fett gay gene",
+                "id": 3331761063,
+                "screen_name": "fenharel",
+                "tweets": 1,
+                "location": "\uff11\uff18\uff0b \uff2f\uff2e\uff2c\uff39",
+                "primary_geo": "\uff11\uff18\uff0b \uff2f\uff2e\uff2c\uff39",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 6642372,
+            "features": {
+                "name": "David Court",
+                "id": 6642372,
+                "screen_name": "DavidJCourt",
+                "tweets": 1,
+                "location": "Warwickshire, England",
+                "primary_geo": "Coventry, England, United Kingdom",
+                "geo_type": "Tweet place"
+            }
+        },
+        {
+            "user_id": 964730856,
+            "features": {
+                "name": "Scott mikita",
+                "id": 964730856,
+                "screen_name": "scottmik104",
+                "tweets": 1,
+                "location": "over the turquoise mountains",
+                "primary_geo": "over the turquoise mountains",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 19724884,
+            "features": {
+                "name": "Chris Scott",
+                "id": 19724884,
+                "screen_name": "iamchrisscott",
+                "tweets": 1,
+                "location": "Washington, DC",
+                "primary_geo": "Washington, DC",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 714557979324878848,
+            "features": {
+                "name": "C. Monty",
+                "id": 714557979324878848,
+                "screen_name": "ProductiGhoul",
+                "tweets": 1,
+                "location": "Canada",
+                "primary_geo": "Canada",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 44546879,
+            "features": {
+                "name": "Ben Gascoigne",
+                "id": 44546879,
+                "screen_name": "tallskinnyben",
+                "tweets": 1,
+                "location": "Sacramento, CA",
+                "primary_geo": "Sacramento, CA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3307150792,
+            "features": {
+                "name": "thePrima",
+                "id": 3307150792,
+                "screen_name": "horrorU_",
+                "tweets": 1,
+                "location": "United States",
+                "primary_geo": "United States",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 900598632,
+            "features": {
+                "name": "Vort",
+                "id": 900598632,
+                "screen_name": "VinceTsosie",
+                "tweets": 1,
+                "location": "NM, USA",
+                "primary_geo": "Shiprock, NM, United States",
+                "geo_type": "Tweet place"
+            }
+        },
+        {
+            "user_id": 413668484,
+            "features": {
+                "name": "Paul Meyer",
+                "id": 413668484,
+                "screen_name": "PaulMeyer20",
+                "tweets": 1,
+                "location": "Erie, CO",
+                "primary_geo": "Erie, CO",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 4188737465,
+            "features": {
+                "name": "HellHound",
+                "id": 4188737465,
+                "screen_name": "DawgPoundEast",
+                "tweets": 1,
+                "location": "Browns Hell \ud83d\udd25",
+                "primary_geo": "Browns Hell \ud83d\udd25",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 809565734091288576,
+            "features": {
+                "name": "the destructive force of thighs",
+                "id": 809565734091288576,
+                "screen_name": "Yukaiira",
+                "tweets": 2,
+                "location": "Ottawa, maple syrup land",
+                "primary_geo": "Ottawa, maple syrup land",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 60458664,
+            "features": {
+                "name": "Anomie of the People",
+                "id": 60458664,
+                "screen_name": "bumpoid",
+                "tweets": 1,
+                "location": "Manhattan, NY",
+                "primary_geo": "Manhattan, NY",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2949092680,
+            "features": {
+                "name": "Laura #500miles\ud83d\udc9c#Alba\ud83d\udc1d\ud83d\udee1\ufe0f\ud83d\udcaf\ud83d\udc9c#DissolveTheUnion",
+                "id": 2949092680,
+                "screen_name": "lauramarsh70",
+                "tweets": 1,
+                "location": "7 walk\ud83d\udc1d8-18-23323\ud83d\udc1d4244\ud83d\udc1d93IK\ud83d\udee1\ufe0f",
+                "primary_geo": "7 walk\ud83d\udc1d8-18-23323\ud83d\udc1d4244\ud83d\udc1d93IK\ud83d\udee1\ufe0f",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 348315604,
+            "features": {
+                "name": "Andrew Bourne #IamRemain#FBPE",
+                "id": 348315604,
+                "screen_name": "abebourne53",
+                "tweets": 2,
+                "location": "Leicester and Malaga",
+                "primary_geo": "Leicester and Malaga",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2205768914,
+            "features": {
+                "name": "megHan",
+                "id": 2205768914,
+                "screen_name": "Raiyine",
+                "tweets": 1,
+                "location": "Port St Lucie, FL",
+                "primary_geo": "Port St Lucie, FL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 124878802,
+            "features": {
+                "name": "CanGal \ud83e\udd44",
+                "id": 124878802,
+                "screen_name": "CanGal_39",
+                "tweets": 1,
+                "location": "Canada",
+                "primary_geo": "Canada",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 855871585395195904,
+            "features": {
+                "name": "Kenny McCormick",
+                "id": 855871585395195904,
+                "screen_name": "kennybot_en",
+                "tweets": 1,
+                "location": "South Park",
+                "primary_geo": "South Park",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 479814677,
+            "features": {
+                "name": "Onasus",
+                "id": 479814677,
+                "screen_name": "onasusweb",
+                "tweets": 1,
+                "location": "France",
+                "primary_geo": "France",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2894920883,
+            "features": {
+                "name": "I am nonbinary",
+                "id": 2894920883,
+                "screen_name": "HaroldCherub",
+                "tweets": 1,
+                "location": "Oklahoma City, OK",
+                "primary_geo": "Oklahoma City, OK",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 528122131,
+            "features": {
+                "name": "Ernie",
+                "id": 528122131,
+                "screen_name": "ernie_ball13",
+                "tweets": 1,
+                "location": "Tucson, AZ",
+                "primary_geo": "Tucson, AZ",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 703395165881421825,
+            "features": {
+                "name": "Bucks and Pucks",
+                "id": 703395165881421825,
+                "screen_name": "pensfannc5",
+                "tweets": 1,
+                "location": "Nc.",
+                "primary_geo": "Nc.",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 472587114,
+            "features": {
+                "name": "Trevor",
+                "id": 472587114,
+                "screen_name": "possum_1776",
+                "tweets": 1,
+                "location": "Tulsa, OK",
+                "primary_geo": "Tulsa, OK",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 768162988188573696,
+            "features": {
+                "name": "gabem480",
+                "id": 768162988188573696,
+                "screen_name": "gabem602",
+                "tweets": 1,
+                "location": "Phoenix, AZ",
+                "primary_geo": "Phoenix, AZ",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 262225643,
+            "features": {
+                "name": "'90 till",
+                "id": 262225643,
+                "screen_name": "IraCordero_",
+                "tweets": 1,
+                "location": "Melbourne, Victoria",
+                "primary_geo": "Melbourne, Victoria",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 878980172342579200,
+            "features": {
+                "name": "AJ",
+                "id": 878980172342579200,
+                "screen_name": "smartlyjoan",
+                "tweets": 2,
+                "location": "Ruby Red \u2665\ufe0fLand, USA",
+                "primary_geo": "Ruby Red \u2665\ufe0fLand, USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 257714024,
+            "features": {
+                "name": "Sami Davis",
+                "id": 257714024,
+                "screen_name": "samidavis21",
+                "tweets": 1,
+                "location": "",
+                "primary_geo": "Columbus, OH, United States",
+                "geo_type": "Tweet place"
+            }
+        },
+        {
+            "user_id": 826550011496390657,
+            "features": {
+                "name": "Sue Huntt",
+                "id": 826550011496390657,
+                "screen_name": "SPH718",
+                "tweets": 1,
+                "location": "Maryland ",
+                "primary_geo": "Maryland ",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1169652666,
+            "features": {
+                "name": "Twitch:SituatedStokes",
+                "id": 1169652666,
+                "screen_name": "SMG_Stokes",
+                "tweets": 1,
+                "location": "Philly\u2708Atlanta ",
+                "primary_geo": "Philly\u2708Atlanta ",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 73439599,
+            "features": {
+                "name": "J. Kent Messum",
+                "id": 73439599,
+                "screen_name": "_JamieK_",
+                "tweets": 1,
+                "location": "Prose in different area codes",
+                "primary_geo": "Prose in different area codes",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 155385137,
+            "features": {
+                "name": "Melissa Crytzer Fry",
+                "id": 155385137,
+                "screen_name": "CrytzerFry",
+                "tweets": 1,
+                "location": "Southern Arizona",
+                "primary_geo": "Southern Arizona",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 760022019249496064,
+            "features": {
+                "name": "Myinfogretchenhugh \ud83d\udc1e\ud83d\udc1e\ud83d\udc1e",
+                "id": 760022019249496064,
+                "screen_name": "InfogretchenMy",
+                "tweets": 1,
+                "location": "Mississippi, USA",
+                "primary_geo": "Mississippi, USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2351903176,
+            "features": {
+                "name": "Everyone's Favorite Possum.",
+                "id": 2351903176,
+                "screen_name": "Trojan_Possum",
+                "tweets": 2,
+                "location": "Heart of Dixie",
+                "primary_geo": "Heart of Dixie",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 288323379,
+            "features": {
+                "name": "Brent Jones",
+                "id": 288323379,
+                "screen_name": "brentjones4",
+                "tweets": 1,
+                "location": "College Baseball Alum",
+                "primary_geo": "Georgia, USA, United States",
+                "geo_type": "Tweet place"
+            }
+        },
+        {
+            "user_id": 2687199692,
+            "features": {
+                "name": "Helen Balls",
+                "id": 2687199692,
+                "screen_name": "mywaywardsonsuk",
+                "tweets": 1,
+                "location": "Cardiff, UK",
+                "primary_geo": "Cardiff, UK",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 55796277,
+            "features": {
+                "name": "Kevin Ibbotson-Wight",
+                "id": 55796277,
+                "screen_name": "weaklemondrink",
+                "tweets": 1,
+                "location": "Edinburgh, Scotland",
+                "primary_geo": "Edinburgh, Scotland",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 723092244,
+            "features": {
+                "name": "\ud83e\udddc\ud83c\udffd\u200d\u2640\ufe0f",
+                "id": 723092244,
+                "screen_name": "Gabyvegavegaa",
+                "tweets": 1,
+                "location": "Coral Gables, FL",
+                "primary_geo": "Coral Gables, FL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 990227587283668992,
+            "features": {
+                "name": "\u4eac\u5927\u30e9\u30c6\u30f3\u8a9e2\u6642\u9593\u30b3\u30fc\u30b9bot",
+                "id": 990227587283668992,
+                "screen_name": "KU_Latin2Hbot",
+                "tweets": 1,
+                "location": "\u7b2c7\u8b1b\u7fa9\u5ba4",
+                "primary_geo": "\u7b2c7\u8b1b\u7fa9\u5ba4",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 890947844605194243,
+            "features": {
+                "name": "Set The Tape",
+                "id": 890947844605194243,
+                "screen_name": "SetTheTape",
+                "tweets": 1,
+                "location": "United Kingdom",
+                "primary_geo": "United Kingdom",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1952382985,
+            "features": {
+                "name": "annie",
+                "id": 1952382985,
+                "screen_name": "sopa_possum",
+                "tweets": 1,
+                "location": "Vancouver, British Columbia",
+                "primary_geo": "Vancouver, British Columbia",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3133410687,
+            "features": {
+                "name": "Ghound",
+                "id": 3133410687,
+                "screen_name": "gdog2010_john",
+                "tweets": 2,
+                "location": "Glasgow, Scotland, EU",
+                "primary_geo": "Glasgow, Scotland, EU",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 495140966,
+            "features": {
+                "name": "Kevin",
+                "id": 495140966,
+                "screen_name": "bigkev_2191",
+                "tweets": 1,
+                "location": "NY \u2708\ufe0f FL",
+                "primary_geo": "NY \u2708\ufe0f FL",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 3498143772,
+            "features": {
+                "name": "Dalton Vee",
+                "id": 3498143772,
+                "screen_name": "Az_DALTONVEE",
+                "tweets": 1,
+                "location": "Pinal County, Arizona ",
+                "primary_geo": "Pinal County, Arizona ",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 556217803,
+            "features": {
+                "name": "Matthew Holness",
+                "id": 556217803,
+                "screen_name": "MrHolness",
+                "tweets": 1,
+                "location": "Finchland",
+                "primary_geo": "Finchland",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 188575714,
+            "features": {
+                "name": "Dustin Genereux",
+                "id": 188575714,
+                "screen_name": "DustinGenereux",
+                "tweets": 1,
+                "location": "Philadelphia, PA",
+                "primary_geo": "Philadelphia, PA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 493366120,
+            "features": {
+                "name": "Wendigo-Go Dancer",
+                "id": 493366120,
+                "screen_name": "wendigogodancer",
+                "tweets": 1,
+                "location": "United States",
+                "primary_geo": "United States",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 111279031,
+            "features": {
+                "name": "The Fyzz",
+                "id": 111279031,
+                "screen_name": "the_fyzz",
+                "tweets": 1,
+                "location": "London and LA",
+                "primary_geo": "London and LA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1663126254,
+            "features": {
+                "name": "Liberty LaRae @LaRae_Writes \ud83c\udf1f\ud83c\uddfa\ud83c\uddf8\ud83c\udf1f MAGA #WWG1WGA",
+                "id": 1663126254,
+                "screen_name": "LaRae_Writes",
+                "tweets": 1,
+                "location": "America     ",
+                "primary_geo": "America     ",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 922435415247900673,
+            "features": {
+                "name": "OutOfOurElement",
+                "id": 922435415247900673,
+                "screen_name": "OutOfOurElement",
+                "tweets": 1,
+                "location": "United Kingdom",
+                "primary_geo": "United Kingdom",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 760656787875913728,
+            "features": {
+                "name": "Just Mike",
+                "id": 760656787875913728,
+                "screen_name": "blackmoortech",
+                "tweets": 1,
+                "location": "Back up and running",
+                "primary_geo": "Back up and running",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 56518709,
+            "features": {
+                "name": "aislinn",
+                "id": 56518709,
+                "screen_name": "aislinntlc",
+                "tweets": 1,
+                "location": "down the rabbit hole",
+                "primary_geo": "down the rabbit hole",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 17824471,
+            "features": {
+                "name": "Frank Carr",
+                "id": 17824471,
+                "screen_name": "jfrankcarr",
+                "tweets": 1,
+                "location": "Atlanta, GA USA",
+                "primary_geo": "Atlanta, GA USA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 2448077035,
+            "features": {
+                "name": "Plutonium and Gravy (Martin Pfeiffer) \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "id": 2448077035,
+                "screen_name": "NuclearAnthro",
+                "tweets": 1,
+                "location": "Albuquerque, NM",
+                "primary_geo": "Albuquerque, NM",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1439233094,
+            "features": {
+                "name": "Daniel Fletcher",
+                "id": 1439233094,
+                "screen_name": "l_dannyfletcher",
+                "tweets": 1,
+                "location": "Bromley, London",
+                "primary_geo": "Bromley, London",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 1124661962,
+            "features": {
+                "name": "Laurence Quinn",
+                "id": 1124661962,
+                "screen_name": "quinn_laurence",
+                "tweets": 1,
+                "location": "manchester",
+                "primary_geo": "manchester",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 77101122,
+            "features": {
+                "name": "Curious Quail",
+                "id": 77101122,
+                "screen_name": "CuriousQuail",
+                "tweets": 1,
+                "location": "The Kitten Portal, CA",
+                "primary_geo": "The Kitten Portal, CA",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 876543102403719168,
+            "features": {
+                "name": "cancon",
+                "id": 876543102403719168,
+                "screen_name": "cncon88",
+                "tweets": 1,
+                "location": "Toronto, Ontario",
+                "primary_geo": "Toronto, Ontario",
+                "geo_type": "User location"
+            }
+        },
+        {
+            "user_id": 716316186691178497,
+            "features": {
+                "name": "Turkey Boi \ud83e\udd83\ud83c\udf30",
+                "id": 716316186691178497,
+                "screen_name": "smerdisss",
+                "tweets": 1,
+                "location": "Philadelphia, PA",
+                "primary_geo": "Philadelphia, PA",
+                "geo_type": "User location"
+            }
+        }
+    ]
+}
